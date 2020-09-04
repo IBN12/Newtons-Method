@@ -1,6 +1,8 @@
 # Newtons-Method
 Mathematical Application
+
 Newton’s Method:
+
 Mathematical Project
 
 Mathematical computation implemented with OOD/OOP (Object Oriented Programming).

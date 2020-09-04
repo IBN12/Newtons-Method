@@ -11,3 +11,4 @@ Newton’s Method Definition: The idea behind Newton’s Method is that the tang
 
 Each sequence is approximated with the formula x_(n+1)=x_n-(f(x_n))/(f'(x_n))
 I will continue to add classes to this program where the user will be able to create their own quadratic trinomials and binomials, while attributing a better understanding of OOD/OOP in detail.
+ 
